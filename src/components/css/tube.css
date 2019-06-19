@@ -1,0 +1,70 @@
+.circle {
+    background-color: #e6b900;
+    color: #000;
+}
+
+.district {
+    background-color: #005920;
+    color: #fff;
+}
+
+.hammersmith-city {
+    background-color: #d799af;
+    color: #000;
+}
+
+.central {
+    background-color: #e32017;
+    color: #fff;
+}
+
+.bakerloo {
+    background-color: #b36305;
+    color: #fff;
+}
+
+.jubilee {
+    background-color: #6a7278;
+    color: #fff;
+}
+
+.metropolitan {
+    background-color: #9b0056;
+    color: #fff;
+}
+
+.northern {
+    background-color: #000;
+    color: #fff;
+}
+
+.piccadilly {
+    background-color: #003688;
+    color: #fff;
+}
+
+.victoria {
+    background-color: #0098d4;
+    color: #fff;
+}
+
+.waterloo-city {
+    background-color: #95cdba;
+    color: #000;
+}
+
+.london-overground {
+    background-color: #EE7C0E;
+    color: #fff;
+}
+
+.dlr {
+    background-color: #00a4a7;
+    color: #fff;
+}
+
+.tram {
+    background-color: #84B817;
+    color: #fff;
+}
+
